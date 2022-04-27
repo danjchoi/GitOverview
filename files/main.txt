@@ -1,0 +1,5 @@
+This is the main file.
+
+There is nothing special about it.
+
+We just need a file state.
