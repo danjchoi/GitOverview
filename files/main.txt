@@ -1,5 +1,5 @@
 This is the main file.
-
+I've added this A line.
 There is nothing special about it.
 
 We just need a file state.
